@@ -1,0 +1,84 @@
+@page "/LocalStorage"
+@inject IJSRuntime JSRuntime
+@rendermode InteractiveServer
+
+<div style="height: 75px; border-bottom: 2px solid black; display: flex; justify-content: center; align-items: center; background-color: #f8f9fa;">
+    <a href="" style="text-decoration: none; color: black; font-size: 1.5em; padding: 10px; margin-right: 20px;">Home</a>
+    <a href="counter" style="text-decoration: none; color: black; font-size: 1.5em; padding: 10px; margin-right: 20px;">Counter</a>
+    <a href="calculator" style="text-decoration: none; color: black; font-size: 1.5em; padding: 10px; margin-right: 20px;">Calculator</a>
+    <a href="LocalStorage" style="text-decoration: none; color: black; font-size: 1.5em; padding: 10px; margin-right: 20px;">Local Storage</a>
+</div>
+
+
+<style>
+    .user-entry-container {margin-bottom: 20px;}
+
+    label {display: block;margin-bottom: 5px;}
+
+    input {width: 100%;padding: 8px;margin-bottom: 10px;box-sizing: border-box;}
+
+    button {background-color: #007bff;color: #fff;padding: 10px 15px;border: none;cursor: pointer;font-size: 16px;margin-right: 10px;}
+
+    button:hover {background-color: #0000b3;}
+
+    .stored-data {margin-top: 20px;}
+
+    ul {list-style-type: none;padding: 0;}
+
+    li {margin-bottom: 5px;}
+
+</style>
+
+
+<div class="user-entry-container">
+    <h3>User Data Entry</h3>
+    <div>
+        <label for="userName">User Name:</label>
+        <input type="text" id="userName" @bind="userData.UserName" />
+    </div>
+    <button @onclick="SendData">Send Data</button>
+    <button @onclick="RetrieveData">Retrieve Data</button>
+</div>
+
+<div class="stored-data">
+    <h4>Stored User Data</h4>
+    <ul>
+        @foreach (var entry in userEntries)
+        {
+            <li>@entry.UserName</li>
+        }
+    </ul>
+</div>
+
+@code {
+    UserData userData = new UserData();
+    List<UserData> userEntries = new List<UserData>();
+
+    async Task SendData()
+    {
+        var sentUserName = userData.UserName;
+
+        // log messages to the browser console
+        await JSRuntime.InvokeVoidAsync("console.log", "Sending user Entry:", sentUserName);
+
+        // Trigger re-render to update the UI
+        StateHasChanged();
+    }
+
+    async Task RetrieveData()
+    {
+        var retrievedUserName = userData.UserName;
+
+        // log messages to the browser console
+        await JSRuntime.InvokeVoidAsync("console.log", "Retrieving user Entry:", retrievedUserName);
+
+        // Add the retrieved user data to the list
+        userEntries.Add(new UserData { UserName = retrievedUserName });
+
+        // Clear the input after retrieving data
+        userData = new UserData();
+
+        // Trigger re-render to update the UI
+        StateHasChanged();
+    }
+}

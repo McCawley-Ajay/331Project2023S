@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "hosY5IaLP6QpFMQRW0D3l0QYcv8EDUHsQ6upJVXen1neCSAypRh8S1bcJ16/FFGtVXPhHMxLzLV4umt8fFT0TQ==",
+  "dgSpecHash": "FCy15UXe5sg6E8kQ0lbuav3Iz6lktlmrzPaliCfXqmAz28a0CyNq4EFDuegtJVbY/v+ZsNOWDoejvRfMY03wwA==",
   "success": true,
-  "projectFilePath": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\BlazorApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carso_r5408vt\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.0-rc.2.20475.17\\microsoft.aspnetcore.authorization.5.0.0-rc.2.20475.17.nupkg.sha512",
+    "C:\\Users\\carso_r5408vt\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.0-rc.2.20475.17\\microsoft.aspnetcore.components.5.0.0-rc.2.20475.17.nupkg.sha512",
+    "C:\\Users\\carso_r5408vt\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.0-rc.2.20475.17\\microsoft.aspnetcore.components.analyzers.5.0.0-rc.2.20475.17.nupkg.sha512",
+    "C:\\Users\\carso_r5408vt\\.nuget\\packages\\microsoft.aspnetcore.components.web.extensions\\5.0.0-preview9.20513.1\\microsoft.aspnetcore.components.web.extensions.5.0.0-preview9.20513.1.nupkg.sha512",
+    "C:\\Users\\carso_r5408vt\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.0-rc.2.20475.17\\microsoft.aspnetcore.metadata.5.0.0-rc.2.20475.17.nupkg.sha512",
+    "C:\\Users\\carso_r5408vt\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-rc.2.20475.5\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\carso_r5408vt\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-rc.2.20475.5\\microsoft.extensions.logging.abstractions.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\carso_r5408vt\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-rc.2.20475.5\\microsoft.extensions.options.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\carso_r5408vt\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-rc.2.20475.5\\microsoft.extensions.primitives.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\carso_r5408vt\\.nuget\\packages\\microsoft.jsinterop\\5.0.0-rc.2.20475.17\\microsoft.jsinterop.5.0.0-rc.2.20475.17.nupkg.sha512"
+  ],
   "logs": []
 }

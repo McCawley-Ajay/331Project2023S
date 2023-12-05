@@ -1,24 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
+      "Id": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorApp.bundle.scp.css"
     },
     {
-      "Id": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\app.css",
+      "Id": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",

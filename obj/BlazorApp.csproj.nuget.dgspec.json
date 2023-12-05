@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\BlazorApp.csproj": {}
+    "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\BlazorApp.csproj": {
+    "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\BlazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\BlazorApp.csproj",
-        "packagesPath": "C:\\Users\\ajaym\\.nuget\\packages\\",
-        "outputPath": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\obj\\",
+        "projectPath": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\BlazorApp.csproj",
+        "packagesPath": "C:\\Users\\carso_r5408vt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ajaym\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\carso_r5408vt\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +37,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web.Extensions": {
+              "target": "Package",
+              "version": "[5.0.0-preview9.20513.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
