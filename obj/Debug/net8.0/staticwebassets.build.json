@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sF2IriCorLIKsaEry7lDeFH2VDvQK/u/xWcJG2jAEuw=",
+  "Hash": "Htkdi93O6myK2F+VwEBgwd3eQ4BOj2n/zXaM/PyJ8mg=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorApp\\wwwroot",
       "Source": "BlazorApp",
-      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\wwwroot\\",
+      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css"
+      "OriginalItemSpec": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css"
     },
     {
-      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
+      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\wwwroot\\app.css",
+      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\app.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\wwwroot\\",
+      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\wwwroot\\",
+      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\wwwroot\\",
+      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\wwwroot\\favicon.png",
+      "Identity": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\favicon.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\wwwroot\\",
+      "ContentRoot": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
