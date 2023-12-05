@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\BlazorApp.csproj",
+      "projectUniqueName": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\BlazorApp.csproj",
+      "projectPath": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\BlazorApp.csproj",
       "packagesPath": "C:\\Users\\ajaym\\.nuget\\packages\\",
-      "outputPath": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\331Project2023S\\obj\\",
+      "outputPath": "C:\\cygwin64\\home\\ajaym\\BlazorApp\\McCawley-Ajay.github.io\\331Project2023S\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajaym\\AppData\\Roaming\\NuGet\\NuGet.Config",
