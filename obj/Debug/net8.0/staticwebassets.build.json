@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cG6GlzkWvQXB1qo1TObxFf+fUociqSEJ2eeX3GB2+XA=",
+  "Hash": "mMEvn6hN6RQh5SkPZHDfV3n3o/D9su/4ILCTBMCSC/I=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\wwwroot\\localStorageFunction.js",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "localStorageFunction.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\localStorageFunction.js"
     }
   ]
 }

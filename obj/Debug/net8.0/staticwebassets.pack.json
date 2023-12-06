@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\carso_r5408vt\\OneDrive\\Desktop\\Web Development\\331Project2023S\\wwwroot\\localStorageFunction.js",
+      "PackagePath": "staticwebassets\\localStorageFunction.js"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
